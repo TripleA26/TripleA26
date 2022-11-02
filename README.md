@@ -1,4 +1,4 @@
-### Hi there 👋
+### Discord: Triple_A#0026
 #### 16 yo, Actually learning Python
 
 ### <p align="center">Visitors:</p>
