@@ -1,13 +1,10 @@
 ### Hi there 👋
-#### 16 yo
+#### 16 yo, Actually learning Python
 
+### <p align="center">Visitors:</p>
 <br>
-#### Actually learning:
-	<p align="center">
-   		<a href="https://skillicons.dev">
-        
-     		<img src="https://skillicons.dev/icons?i=pytheme=dark" />
-   		</a>
- 	</p>
+<p align="center">
+ 	<img src="https://profile-counter.glitch.me/TripleA26/count.svg" />
 </p>
+
 
