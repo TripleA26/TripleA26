@@ -1,5 +1,5 @@
 ### Discord: Triple_A#0026
-#### 16 yo, Actually learning Python
+#### 16 yo, Currently learning Python
 
 ### <p align="center">Visitors:</p>
 <br>
