@@ -15,5 +15,5 @@
 <p align="center>
   <img src="https://github-readme-stats.vercel.app/api?username=triplea26&show_icons=true&theme=nightouwl&hide_border=true" />
   </a>
-<\p>
+</p>
 
