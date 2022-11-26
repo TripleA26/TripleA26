@@ -11,5 +11,7 @@
 </p>
 </p>
 <p align="center"> <img src="https://gpvc.arturio.dev/TripleA26" alt="TripleA26" /> </p>
+<br>
+<p alightn="center> <img src="https://github-readme-stats.vercel.app/api?username=triplea26&show_icons=true&theme=nightowl&hide_border=true" />
 
 
