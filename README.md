@@ -1,4 +1,4 @@
-### Discord: Triple_A#0026
+### Discord: Triple_A#8799
 #### 16 yo, Currently learning Python
 <p align="center">
     <img src=https://lanyard.cnrad.dev/api/651793378685485066/>
