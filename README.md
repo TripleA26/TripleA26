@@ -1,7 +1,10 @@
 ### Discord: Triple_A#0026
 #### 16 yo, Currently learning Python
-<img align= "center" alt="" src=https://lanyard.cnrad.dev/api/651793378685485066/>
-### <p align="center">Visitors:</p>
+<p align="center>
+ <img src=https://lanyard.cnrad.dev/api/651793378685485066/>
+<\p>
+
+<h2 align="center">Visitors:</h2>
 <br>
 <p align="center">
  	<img src="https://profile-counter.glitch.me/TripleA26/count.svg" />
