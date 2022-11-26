@@ -13,6 +13,8 @@
 <p align="center"> <img src="https://gpvc.arturio.dev/TripleA26" alt="TripleA26" /> </p>
 <br>
 <p align="center>
+  <a href="https://cloudcant.github.io">
   <img src="https://github-readme-stats.vercel.app/api?username=TripleA26&show_icons=true&theme=github_dark"/>
+  <a/>                                                                                          
 </p>
 
