@@ -14,7 +14,7 @@
 <br>
 <p align="center>
   <a href="https://cloudcant.github.io">
-  <img src="https://github-readme-stats.vercel.app/api?username=TripleA26&show_icons=true&theme=github_dark"/>
+  <img align= "center" src="https://github-readme-stats.vercel.app/api?username=TripleA26&show_icons=true&theme=github_dark"/>
   <a/>                                                                                          
 </p>
 
