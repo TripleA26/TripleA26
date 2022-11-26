@@ -1,6 +1,6 @@
 ### Discord: Triple_A#0026
 #### 16 yo, Currently learning Python
-<img align= "center" alt="" src=https://lanyard.cnrad.dev/api/1042539622514827365/>
+<img align= "center" alt="" src=https://lanyard.cnrad.dev/api/651793378685485066/>
 ### <p align="center">Visitors:</p>
 <br>
 <p align="center">
