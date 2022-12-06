@@ -1,4 +1,4 @@
-### Discord: Triple_A#8799
+### Discord: Triple_A#0026
 #### 16 yo, Currently learning Python
 <hr>
 <p align="center">
