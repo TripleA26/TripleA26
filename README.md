@@ -12,5 +12,5 @@
 </p>
 <p align="center"> <img src="https://gpvc.arturio.dev/TripleA26" alt="TripleA26" /> </p>
 <br>
-<video src="https://cdn.discordapp.com/attachments/651878500722278419/1053406803377016883/trim.197AAC01-10FB-444D-BF5C-1AD63052310D-2.mp4"></video>
+https://cdn.discordapp.com/attachments/651878500722278419/1053406803377016883/trim.197AAC01-10FB-444D-BF5C-1AD63052310D-2.mp4
 </hr>
