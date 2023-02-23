@@ -1,5 +1,5 @@
 ### Discord: Triple_A#0026
-#### 16 yo, Currently learning Python
+#### 17 yo, Currently learning Python
 <hr>
 <p align="center">
     <img src=https://lanyard.cnrad.dev/api/651793378685485066/>
