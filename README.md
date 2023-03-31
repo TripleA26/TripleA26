@@ -2,7 +2,7 @@
 #### 17 yo, Currently learning Python
 <hr>
 <p align="center">
-    <img src=https://lanyard.cnrad.dev/api/651793378685485066/>
+    <img src=https://lanyard.cnrad.dev/api/691236752404381719/>
 <br>
 <br>
 <h2 align="center">Visitors:</h2>
