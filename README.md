@@ -1,4 +1,4 @@
-### Discord: Triple_A#0001
+### Discord: @2a6a
 #### 17 yo, Currently learning Python
 <hr>
 <p align="center">
