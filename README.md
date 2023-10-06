@@ -7,6 +7,6 @@
 <br>
 <h2 align="center">Visitors:</h2>
 </p>
-<p align="center"> <img src="https://gpvc.arturio.dev/TripleA26" alt="TripleA26" /> </p>
+<p align="center"> <img src="https://profile-counter.glitch.me/TripleA26/count.svg" /> </p>
 <br>
 </hr>
