@@ -6,7 +6,7 @@
 <br>
 <br>
 <h2 align="center">Visitors:</h2>
-</p>
-<p align="center"> <img src="https://profile-counter.glitch.me/TripleA26/count.svg" /> </p>
+<p align="center">
+ 	<img src="https://profile-counter.glitch.me/TripleA26/count.svg" />
 <br>
 </hr>
