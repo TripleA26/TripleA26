@@ -1,5 +1,5 @@
 ### Discord: @2a6a
-#### 17 yo, Currently learning Python
+#### 18 yo
 <hr>
 <p align="center">
     <img src=https://lanyard.cnrad.dev/api/869290689945538610/>
