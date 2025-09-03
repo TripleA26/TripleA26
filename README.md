@@ -16,7 +16,7 @@
 ## 🚀 About Me
 - 💻 Passionate about **APIs, automation, and bot development**  
 - 🛠️ Love building tools that **scrape, automate, and simplify workflows**  
-- 🌍 Basic knowledge in **Web Development, Java, and C#**  
+- 🌍 Knowledge in **Web Development, Java, and C#**  
 
 ---
 
