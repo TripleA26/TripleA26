@@ -1,5 +1,5 @@
 ### Discord: @2a6a  
-#### 19 y/o | API enthusiast | Bot & automation developer  
+#### 19 y/o | API exploitment | Bot & automation developer  
 
 ---
 
