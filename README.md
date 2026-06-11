@@ -1,7 +1,15 @@
-### Discord: @2a6a  
-#### 20 y/o | API exploitment | Bot & automation developer  
 
----
+<div align="center">
+
+### Discord: @2a6a  
+#### 20 y/o | API exploitment | Bot & automation developer
+
+</div>
+
+<div align="center">
+  <img src="https://pbs.twimg.com/media/HFP6OwDbgAAzP7f.jpg:small" alt="img" />
+</div>
+
 
 <h2 align="center">
   <a href="https://e-z.bio/triplea26">🌐 Bio</a>
