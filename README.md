@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://pbs.twimg.com/media/HFP6OwDbgAAzP7f.jpg:small" alt="img" />
+  <img src="https://imgur.com/QNlCiWJ.png" alt="img" />
 </div>
 
 
