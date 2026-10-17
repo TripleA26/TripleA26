@@ -30,8 +30,12 @@
 
 ## 📊 Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TripleA26&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TripleA26&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=320" width="40%"/>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=TripleA26" width="48%"/>
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TripleA26&layout=compact" width="40%"/>
+  </a>
 </p>
 <hr/>
 
