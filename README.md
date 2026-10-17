@@ -39,8 +39,12 @@
 </p>
 <hr/>
 
+
+
 <h2 align="center">👀 Visitors</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TripleA26&style=flat-square&color=blue&label=Profile+Views" />
+  <img src="https://hits.sh/github.com/TripleA26.svg?style=flat-square&label=Profile%20Views&color=blue" alt="Profile Views" />
 </p>
+
+
 
