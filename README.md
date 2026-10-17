@@ -24,7 +24,7 @@
 ## 🚀 About Me
 - 💻 Passionate about **APIs, automation, and bot development**  
 - 🛠️ Love building tools that **scrape, automate, and simplify workflows**  
-- 🌍Knowledge in **Web Scraping, Java, C#, and API security testing (endpoint analysis, API exploitation)**
+- 🌍Knowledge in **Python, Web Scraping, Java, C#, and API security testing (endpoint analysis, API exploitation)**
 
 ---
 
