@@ -12,7 +12,7 @@
 
 
 <h2 align="center">
-  <a href="https://e-z.bio/triplea26">🌐 Bio</a>
+  <a href="https://guns.lol/triplea26">🌐 Bio</a>
 </h2>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ## 🚀 About Me
 - 💻 Passionate about **APIs, automation, and bot development**  
 - 🛠️ Love building tools that **scrape, automate, and simplify workflows**  
-- 🌍Knowledge in **Python, Web Scraping, Java, C#, and API security testing (endpoint analysis, API exploitation)**
+- 🌍Knowledge in **Python, Web Scraping, Java, C#, and API pentesting (endpoint analysis, API exploitation)**
 
 ---
 
